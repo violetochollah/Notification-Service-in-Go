@@ -1,0 +1,13 @@
+{
+    "email":{
+   "smpt_host": "smpt.gmail.com",
+    "smpt_port": 587,
+    "username":"write your email address here",
+    "password":"write your password here"
+},
+"firebase":{
+    "credentials_file":"path to firebase json files"
+}
+}
+
+
